@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ab15d039-b6c7-49b1-92cf-e08a9c965f55",
+    "name": "Light",
+    "selectedTokenSets": {
+      "primitives/colors/light/global": "enabled",
+      "primitives/colors/light/first-theme": "enabled",
+      "primitives/colors/light/second-theme": "enabled"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "09e90423-9bf7-4960-a92f-386d2fa50ff1",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "primitives/colors/dark/global": "enabled",
+      "primitives/colors/dark/first-theme": "enabled",
+      "primitives/colors/dark/second-theme": "enabled"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "2fdab1f1-fbd9-4283-8746-659f98ccf30e",
+    "name": "First theme",
+    "selectedTokenSets": {
+      "themes/first-theme": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "35146187-0b6b-4593-97ba-a88ed864e3f9",
+    "name": "Second theme",
+    "selectedTokenSets": {
+      "themes/second-theme": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "a459b0dc-07f1-4d73-b76c-0cb3d647160d",
+    "name": "Semantic",
+    "selectedTokenSets": {
+      "semantic/style": "enabled",
+      "semantic/color": "enabled",
+      "primitives/globals": "source",
+      "primitives/typography/default": "source"
+    },
+    "group": "Semantic"
+  }
+]

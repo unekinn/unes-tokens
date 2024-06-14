@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/typography/default",
+    "primitives/colors/light/global",
+    "primitives/colors/light/first-theme",
+    "primitives/colors/light/second-theme",
+    "primitives/colors/dark/global",
+    "primitives/colors/dark/first-theme",
+    "primitives/colors/dark/second-theme",
+    "themes/first-theme",
+    "themes/second-theme",
+    "semantic/color",
+    "semantic/style"
+  ]
+}
